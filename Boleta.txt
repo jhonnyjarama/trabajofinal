@@ -1,0 +1,9 @@
+<<<<<<<<<<<<  BOLETA  >>>>>>>>>>>>
+==============================
+==============================
+Nombre de la cuenta . . . : Cristian De la Cruz
+Tipo de operación . . . . . : Retiro
+Estado de cuenta. . . . . . : Le quedan fondos
+Estado . . . . . . . . . . . . . . : Operacion Retiro
+Monto actual . . . . . . . . . . . : 221.0
+Se retiro . . . . . . . . . . . : 200.0
